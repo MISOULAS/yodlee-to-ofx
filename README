@@ -1,0 +1,13 @@
+Uses Yodlee MoneyCenter's account transaction download capability to obtain
+transactions from multiple accounts, and converts the CSV export file into
+an OFX file capable of being used in personal finance software.
+
+Yodlee MoneyCenter provides support for aggregating transactions 
+from thousands of financial institutions around the world.  While other 
+services use Yodlee's account aggregation functionality, none seem to 
+give access to the full range of international institutions that MoneyCenter 
+provides.
+
+https://moneycenter.yodlee.com/moneycenter/mfalogin.moneycenter.do, 
+
+
